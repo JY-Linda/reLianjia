@@ -700,7 +700,7 @@ a{
 	border: none;
 	position: relative;
 	top:6px;
-	left:-5px;
+	left:-5px;  
 	height: 36px;
 	width: 36px;
 	background-color: #f15044;
@@ -785,9 +785,6 @@ a{
 	font-size: 12px;
 	color: #333;
 	padding-right: 20px;
-}
-.listchose>li>a.active{
-	color: #00ae66;
 }
 .listchose>li.price>input{
 	width: 50px;
@@ -1285,6 +1282,7 @@ a{
 .baiduMap .mapsPath{
 	float: right;
 	height: 330px;
+	width: 276px;
 }
 .mapsPath .mapstitle{
 	float: left;
@@ -1558,6 +1556,7 @@ a{
 	float: left;
 	position: relative;
 	margin-right: 25px;
+	width: 213px;
 }
 .groomBox{
 	border: none;
