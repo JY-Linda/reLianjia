@@ -1013,8 +1013,12 @@ a{
 }
 .photobox .imgbox>img{
 	border:none;
-	width: 480px;
+	width: 481px;
 	height: 360px;
+}
+.photobox .imgbox>div{
+	width: 500px;
+	overflow: hidden;
 }
 .photobox .imgbox>div img{
 	border: none;
@@ -1024,6 +1028,7 @@ a{
 }
 .photobox .imgbox>div>span{
 	position: relative;
+	width: 117px;
 }
 .photobox .imgbox>div>span>b{
 	position: absolute;
